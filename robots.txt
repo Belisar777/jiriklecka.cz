@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
-Disallow: /img/
+Disallow: 
 
 Sitemap: https://jiriklecka.cz/sitemap.xml
 
